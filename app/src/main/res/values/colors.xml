@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#15B1F8</color>
+    <color name="colorPrimaryDark">#339CEF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="list_row_start_color">#FFFFFF</color>
+    <color name="blue">#21C2DF</color>
+</resources>
